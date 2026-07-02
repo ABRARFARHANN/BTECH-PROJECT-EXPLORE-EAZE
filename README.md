@@ -54,7 +54,6 @@ Important root files to include:
 - `config.php`
 - `trouvaille2.sql`
 
-Do not upload duplicate nested folders such as `admin-temp/admin-temp/` if they are not needed.
 
 ### 2. Create the Database
 Import the SQL file:
